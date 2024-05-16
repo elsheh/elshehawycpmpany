@@ -1,0 +1,1235 @@
+@media only screen and (min-width: 100px){
+
+
+
+body{
+    background-color: black;
+}
+
+
+.A{
+    background-color: white;
+	height: 100px;
+	width: 320px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+	left: 585px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 2, 2);
+}
+.a{
+	text-align: center;
+	color: red;
+	font-style:italic;
+	font-size:xx-large;
+	font-family: "Reem Kufi Fun", sans-serif;
+	font-weight: 400;
+	box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+}
+
+.plat1{
+    width: 475px;
+    height: 175px;
+    position: absolute;
+	left: 1005px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    border-radius: 55px;
+    animation-name: plat1;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes plat1{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+}
+
+.plat22{
+    width: 475px;
+    height: 175px;
+    position: absolute;
+	left: 52px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    border-radius: 55px;
+    animation-name: plat22;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes plat22{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+}
+
+.plat33{
+    width: 20px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    left: 100px;
+}
+
+
+
+.photo11{
+    width: 1520px;
+    height: 300px;
+    position: absolute;
+    top: 200px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 2, 2);
+    border-radius: 55px;
+}
+
+
+
+.B{
+    background-color: rgb(0, 0, 0);
+	height: 38px;
+	width: 495px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+    top: 213px;
+	left: 495px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+}
+.b{
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-style:italic;
+	font-size:xx-large;
+	font-family: "Reem Kufi Fun", sans-serif;
+	font-weight: 400;
+    position: absolute;
+    top: -8px;
+    left: 35px;
+}
+
+.wor{
+    background-color: rgb(0, 0, 0);
+	height: 95px;
+	width: 670px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+    top: 310px;
+	left: 365px;
+}
+.word{
+    text-align: center;
+	color: rgb(255, 255, 255);
+	font-style:italic;
+	font-size:xx-large;
+	font-family: "Reem Kufi Fun", sans-serif;
+	font-weight: 400;
+    position: absolute;
+    top: -8px;
+    left: 35px;
+}
+
+
+
+.photo22{
+    width: 520px;
+    height: 360px;
+    position: absolute;
+    top: 570px;
+    left: 500px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 2, 2);
+    border-radius: 55px;
+}
+
+.C{
+    background-color: rgb(0, 0, 0);
+	height: 38px;
+	width: 350px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+    top: 730px;
+	left: 1090px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    animation-name: C;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes C{
+    from{
+        position: absolute;
+        top: 730px;
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    }
+    to{
+        position: absolute;
+        top: 770px;
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+}
+.c{
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-style:italic;
+	font-size:xx-large;
+	font-weight: 400;
+    font-family: "Marhey", sans-serif;
+    position: absolute;
+    top: -8px;
+    left: 145px;
+    animation-name: c;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes c{
+    from{
+       
+        color: white;
+    }
+    to{
+       
+        color: red;
+    }
+}
+
+
+.D{
+    background-color: rgb(0, 0, 0);
+	height: 38px;
+	width: 350px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+    top: 730px;
+	left: 40px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    animation-name: D;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes D{
+    from{
+        position: absolute;
+        top: 730px;
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    }
+    to{
+        position: absolute;
+        top: 770px;
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+}
+.d{
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-style:italic;
+	font-size:xx-large;
+	font-weight: 400;
+    font-family: "Marhey", sans-serif;
+    position: absolute;
+    top: -8px;
+    left: 145px;
+    animation-name: d;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes d{
+    from{
+       
+        color: white;
+    }
+    to{
+       
+        color: red;
+    }
+}
+
+.photo33{
+    width: 1530px;
+    height: 20px;
+    position: absolute;
+    top: 1030px;
+	left: 0px;
+}
+
+
+.photo44{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 960px;
+	left: 10px;
+    animation-name: photo44;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes photo44{
+    from{
+        position: absolute;
+    	left: 10px;
+    }
+    to{
+        position: absolute;
+    	left: 1355px;
+    }
+}
+
+
+.mars1{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 1150px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    border-radius: 55px;
+}
+.mars22{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 1630px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+}
+.mars33{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 1150px;
+    left: 85px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 200px;
+    animation-name: mars33;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes mars33{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+
+    }
+}
+.mars4{
+    width: 490px;
+    height: 460px;
+    position: absolute;
+    top: 1150px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.mars44{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    animation-name: mars44;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes mars44{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.mars45{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+
+.mars5{
+    width: 490px;
+    height: 325px;
+    position: absolute;
+    top: 1650px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.mars55{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    animation-name: mars44;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes mars55{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.mars56{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.mars6{
+    width: 231px;
+    height: 295px;
+    position: absolute;
+    top: 1635px;
+    left: 150px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 30px;
+}
+.mars66{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    animation-name: mars44;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes mars66{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.mars67{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+    direction: rtl;
+}
+
+
+.photo55{
+    width: 1530px;
+    height: 20px;
+    position: absolute;
+    top: 2095px;
+	left: 0px;
+}
+
+
+.photo66{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 2020px;
+	left: 10px;
+    animation-name: photo66;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes photo66{
+    from{
+        position: absolute;
+    	left: 10px;
+    }
+    to{
+        position: absolute;
+    	left: 1355px;
+    }
+}
+
+
+
+.bmw1{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 2195px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    border-radius: 55px;
+}
+.bmw22{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 2195px;
+    left: 85px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 200px;
+    animation-name: bmw22;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes bmw22{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+
+    }
+}
+.bmw33{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 2655px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+}
+.bmw4{
+    width: 490px;
+    height: 350px;
+    position: absolute;
+    top: 2195px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.bmw44{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    direction: rtl;
+    animation-name: bmw44;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes bmw44{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.bmw45{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.bmw5{
+    width: 490px;
+    height: 390px;
+    position: absolute;
+    top: 2615px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.bmw55{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    direction: rtl;
+    animation-name: bmw55;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes bmw55{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.bmw56{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.bmw6{
+    width: 231px;
+    height: 295px;
+    position: absolute;
+    top: 2660px;
+    left: 150px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 30px;
+}
+.bmw66{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    animation-name: bmw66;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes bmw66{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.bmw67{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+    direction: rtl;
+}
+
+
+.photo77{
+    width: 1530px;
+    height: 20px;
+    position: absolute;
+    top: 3115px;
+	left: 0px;
+}
+.photo88{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 3040px;
+	left: 10px;
+    animation-name: photo88;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes photo88{
+    from{
+        position: absolute;
+    	left: 10px;
+    }
+    to{
+        position: absolute;
+    	left: 1355px;
+    }
+}
+
+
+
+.far1{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 3225px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+}
+.far22{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 3225px;
+    left: 85px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 200px;
+    animation-name: far22;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes far22{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+
+    }
+}
+.far33{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 3735px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px; 
+}
+.far4{
+    width: 490px;
+    height: 350px;
+    position: absolute;
+    top: 3225px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.far44{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    direction: rtl;
+    animation-name: far44;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes far44{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.far45{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.far5{
+    width: 490px;
+    height: 460px;
+    position: absolute;
+    top: 3625px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.far55{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    direction: rtl;
+    animation-name: far55;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes far55{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.far56{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.far6{
+    width: 231px;
+    height: 295px;
+    position: absolute;
+    top: 3740px;
+    left: 150px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 30px;
+}
+.far66{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    animation-name: far66;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes far66{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.far67{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+    direction: rtl;
+}
+
+
+
+.photo99{
+    width: 1530px;
+    height: 20px;
+    position: absolute;
+    top: 4200px;
+	left: 0px;
+}
+.photo9999{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 4130px;
+	left: 10px;
+    animation-name: photo9999;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes photo9999{
+    from{
+        position: absolute;
+    	left: 10px;
+    }
+    to{
+        position: absolute;
+    	left: 1355px;
+    }
+}
+
+
+
+
+.lam1{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 4310px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+}
+.lam22{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 4310px;
+    left: 85px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 200px;
+    animation-name: lam22;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes lam22{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+
+    }
+}
+.lam33{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 4815px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px; 
+}
+.lam4{
+    width: 490px;
+    height: 350px;
+    position: absolute;
+    top: 4310px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.lam44{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    direction: rtl;
+    animation-name: lam44;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes lam44{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.lam45{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.lam5{
+    width: 490px;
+    height: 455px;
+    position: absolute;
+    top: 4710px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.lam55{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    direction: rtl;
+    animation-name: lam55;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes lam55{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.lam56{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.lam6{
+    width: 231px;
+    height: 295px;
+    position: absolute;
+    top: 4820px;
+    left: 150px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 30px;
+}
+.lam66{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    animation-name: lam66;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes lam66{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.lam67{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+    direction: rtl;
+}
+
+
+
+.photoos{
+    width: 1530px;
+    height: 20px;
+    position: absolute;
+    top: 5265px;
+	left: 0px;
+}
+.photoes{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 5195px;
+	left: 10px;
+    animation-name: photoes;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes photoes{
+    from{
+        position: absolute;
+    	left: 10px;
+    }
+    to{
+        position: absolute;
+    	left: 1355px;
+    }
+}
+
+
+
+.j1{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 5370px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+}
+.j22{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 5375px;
+    left: 85px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 200px;
+    animation-name: j22;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes j22{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+
+    }
+}
+.j33{
+    width: 385px;
+    height: 360px;
+    position: absolute;
+    top: 5800px;
+    left: 568px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px; 
+}
+.j4{
+    width: 490px;
+    height: 380px;
+    position: absolute;
+    top: 5375px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.j44{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    direction: rtl;
+    animation-name: j44;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes j44{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.j45{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.j5{
+    width: 490px;
+    height: 350px;
+    position: absolute;
+    top: 5800px;
+    left: 1000px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 5px;
+}
+.j55{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    direction: rtl;
+    animation-name: j55;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes j55{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.j56{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+}
+.j6{
+    width: 215px;
+    height: 295px;
+    position: absolute;
+    top: 5800px;
+    left: 150px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    border-radius: 55px;
+    padding: 30px;
+}
+.j66{
+    color: white;
+    text-align: center;
+    font-family: "Marhey", sans-serif;
+    animation-name: j66;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes j66{
+    from{
+        color: white; 
+    }
+    to{
+        color: red;
+    }
+}
+.j67{
+    color: white;
+    text-align: center;
+    font-family: "Amiri", serif;
+    direction: rtl;
+}
+.pic{
+    width: 1530px;
+    height: 20px;
+    position: absolute;
+    top: 6250px;
+	left: 0px;
+}
+.pic1{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 6175px;
+	left: 10px;
+    animation-name: pic1;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes pic1{
+    from{
+        position: absolute;
+    	left: 10px;
+    }
+    to{
+        position: absolute;
+    	left: 1355px;
+    }
+}
+
+
+
+.hand{
+	animation-name: X;
+	animation-delay: 0s;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+}
+@keyframes X {
+	0% {
+		translate: 0 0;
+	}
+	25%{
+		translate: 0 20px;
+	}
+}
+
+.hands{
+	width: 180px;
+	height: 165px;
+	position: absolute;
+	top: 6300px;
+	left: 710px;
+	animation-name: X;
+	animation-delay: 0s;
+}
+.page{
+    width: 385px;
+	height: 50px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+	padding: 10px;
+	position: absolute;
+	top: 6510px;
+	left: 610px;
+	text-align: center;
+	border-radius: 75px;
+	box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+}
+.pagee{
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+	position: absolute;
+	top: 15px;
+	left: 45px;
+    font-family: "Marhey", sans-serif;
+    font-size: x-large;
+}
+
+
+.eg1{
+    width: 1510px;
+    height: 300px;
+    position: absolute;
+	top: 6670px;
+	left:10px;
+    border-radius: 75px;
+	box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+    animation-name: eg1;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes eg1{
+    from{
+        box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+    }
+    to{
+        box-shadow: 1px 1px 15px 10px rgb(255, 255, 255);
+    }
+}
+
+.black{
+    width: 330px;
+	height: 50px;
+    background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 7000px;
+	left: 565px;
+}
+
+}

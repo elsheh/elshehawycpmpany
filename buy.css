@@ -1,0 +1,628 @@
+@media only screen and (min-width: 100px){
+
+body{
+    background-color: black;
+}
+
+.A{
+    background-color: rgb(0, 0, 0);
+	height: 100px;
+	width: 320px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+	left: 585px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 2, 2);
+    animation-name: A;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes A{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+}
+.a{
+	text-align: center;
+	color: red;
+	font-style:italic;
+	font-size:xx-large;
+	font-family: "Reem Kufi Fun", sans-serif;
+	font-weight: 400;
+}
+
+.photo11{
+    width: 575px;
+    height: 255px;
+}
+
+
+
+.cast1{
+    position: absolute;
+    top: 65px;
+    left: 245px;
+}
+.cast2{
+    font-family: "Marhey", sans-serif;
+    font-size:medium; 
+}
+
+.b{
+    width: 1000px;
+    height: 1150px;
+    position: absolute;
+    top: 200px;
+    left: 265px;
+	box-shadow: 1px 1px 10px 10px white;
+    animation-name: b;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes b{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+
+
+.t1{
+position: absolute;
+top: 645px;
+left: 1050px;
+font-size: xx-large;
+font-family: "Marhey", sans-serif;
+}
+.t22{
+    width: 710px;
+    height: 35px;
+    position: absolute;
+top: 650px;
+left: 310px;
+font-size: x-large;
+direction: rtl;
+}
+
+
+.t3{
+    position: absolute;
+top: 720px;
+left: 1050px;
+font-size: xx-large;
+font-family: "Marhey", sans-serif
+}
+.t44{
+    width: 200px;
+    height: 35px;
+    position: absolute;
+top: 725px;
+left: 820px;
+font-size: x-large;
+direction: rtl;
+}
+
+.t5{
+    position: absolute;
+    top: 720px;
+    left: 680px;
+    font-size: xx-large;
+    font-family: "Marhey", sans-serif
+}
+.t5555{
+    width: 345px;
+    height: 35px;
+    position: absolute;
+top: 725px;
+left: 310px;
+font-size: x-large;
+direction: rtl;
+}
+
+
+.t6{
+    position: absolute;
+    top: 790px;
+    left: 1050px;
+    font-size: xx-large;
+    font-family: "Marhey", sans-serif
+}
+.t6666{
+    width: 200px;
+    height: 35px;
+    position: absolute;
+top: 795px;
+left: 820px;
+font-size: x-large;
+direction: rtl;
+}
+
+
+.t7{
+    position: absolute;
+    top: 790px;
+    left: 600px;
+    font-size: xx-large;
+    font-family: "Marhey", sans-serif
+}
+.t7777{
+    width: 270px;
+    height: 35px;
+    position: absolute;
+top: 795px;
+left: 310px;
+font-size: x-large;
+direction: rtl;
+}
+
+
+.hr{
+    width: 974px;
+    height: 15px;
+    position: absolute;
+    top: 870px;
+    left: 277px;
+    background-color: blue;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: hr;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes hr{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+
+
+.s1{
+    position: absolute;
+top: 925px;
+left: 1050px;
+font-size: xx-large;
+font-family: "Marhey", sans-serif;
+}
+.s22{
+    width: 710px;
+    height: 35px;
+    position: absolute;
+top: 930px;
+left: 310px;
+font-size: x-large;
+direction: rtl;
+}
+
+.s3{
+    position: absolute;
+    top: 985px;
+    left: 1050px;
+    font-size: xx-large;
+    font-family: "Marhey", sans-serif;
+}
+.s3333{
+    width: 710px;
+    height: 35px;
+    position: absolute;
+top: 990px;
+left: 310px;
+font-size: x-large;
+direction: rtl;
+}
+
+.s4{
+    position: absolute;
+    top: 1045px;
+    left: 1050px;
+    font-size: xx-large;
+    font-family: "Marhey", sans-serif;
+}
+.s4444{
+    width: 710px;
+    height: 35px;
+    position: absolute;
+top: 1050px;
+left: 310px;
+font-size: x-large;
+direction: rtl;
+}
+
+
+.hr1{
+    width: 974px;
+    height: 15px;
+    position: absolute;
+    top: 1115px;
+    left: 277px;
+    background-color: blue;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: hr;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes hr1{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+
+
+.o1{
+    position: absolute;
+top: 1155px;
+left: 1015px;
+font-size: xx-large;
+font-family: "Marhey", sans-serif; 
+}
+.o22{
+    width: 200px;
+    height: 90px;
+    position: absolute;
+top: 1215px;
+left: 1000px;
+font-size: x-large;
+direction: rtl;
+text-align: center;
+}
+
+
+.d{
+    width: 125px;
+    height: 125px;
+    position: absolute;
+    top: 1180px;
+    left: 700px;
+    border-radius: 200px;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: d;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes d{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+
+
+
+.hr2{
+    width: 186px;
+    height: 15px;
+    position: absolute;
+    top: 1218px;
+    left: 540px;
+    rotate: 90deg;
+    background-color: blue;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: hr2;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes hr2{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+
+.bt1{
+    width: 140px;
+    height: 125px;
+    position: absolute;
+    top: 1180px;
+    left: 375px;
+    color: black;
+    background-color: blue; 
+    text-align: center;
+    font-size: large;
+    font-family: "Marhey", sans-serif; 
+    border-radius: 200px;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: bt1;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes bt1{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+.bt1:hover{
+    background-color: white;
+    color: red;
+}
+
+
+.C{
+    background-color: rgb(255, 255, 255);
+	height: 45px;
+	width: 390px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+    top: 1425px;
+	left: 350px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 2, 2);
+    animation-name: C;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes C{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+}
+.c{
+	text-align: center;
+	color: red;
+	text-decoration: none;
+	font-size:xx-large;
+    font-family: "Marhey", sans-serif; 
+	font-weight: 400;
+}
+
+.f{
+    width: 140px;
+    height: 125px;
+    position: absolute;
+    top: 1405px;
+    left: 1050px;
+    color: black;
+    background-color: blue; 
+    text-align: center;
+    font-size: large;
+    font-family: "Marhey", sans-serif; 
+    border-radius: 200px;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: f;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes f{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+.f:hover{
+    background-color: white;
+    color: red;
+}
+.stop{
+    width: 140px;
+    height: 125px;
+    position: absolute;
+    top: 1405px;
+    left: 875px;
+    color: black;
+    background-color: blue; 
+    text-align: center;
+    font-size: large;
+    font-family: "Marhey", sans-serif; 
+    border-radius: 200px;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: stop;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes stop{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+.stop:hover{
+    background-color: white;
+    color: red;
+}
+
+
+
+.pic{
+    width: 1530px;
+    height: 20px;
+    position: absolute;
+    top: 1630px;
+	left: 0px;
+}
+.pic1{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 1555px;
+	left: 10px;
+    animation-name: pic1;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes pic1{
+    from{
+        position: absolute;
+    	left: 10px;
+    }
+    to{
+        position: absolute;
+    	left: 1355px;
+    }
+}
+
+
+.H{
+    background-color: rgb(255, 255, 255);
+	height: 45px;
+	width: 390px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+    top: 1725px;
+	left: 350px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 2, 2);
+    animation-name: H;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes H{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+}
+.h{
+	text-align: center;
+	color: red;
+	text-decoration: none;
+	font-size:xx-large;
+    font-family: "Marhey", sans-serif; 
+	font-weight: 400;
+    position: absolute;
+    top: 1715px;
+	left: 430px;
+}
+
+
+.k2{
+    width: 140px;
+    height: 125px;
+    position: absolute;
+    top: 1715px;
+    left: 1050px;
+    color: black;
+    background-color: blue; 
+    text-align: center;
+    font-size: large;
+    font-family: "Marhey", sans-serif; 
+    border-radius: 200px;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: k2;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes k2{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+.k2:hover{
+    background-color: white;
+    color: red;
+}
+.k3{
+    width: 140px;
+    height: 125px;
+    position: absolute;
+    top: 1715px;
+    left: 875px;
+    color: black;
+    background-color: blue; 
+    text-align: center;
+    font-size: large;
+    font-family: "Marhey", sans-serif; 
+    border-radius: 200px;
+    box-shadow: 1px 1px 10px 10px white;
+    animation-name: k3;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes k3{
+    from{
+        box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 10px 10px blue;
+    }
+}
+.k3:hover{
+    background-color: white;
+    color: red;
+}
+
+
+.O{
+    background-color: rgb(255, 255, 255);
+	height: 45px;
+	width: 480px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+    top: 1960px;
+	left: 530px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 2, 2);
+    animation-name: O;
+    animation-delay: 0S;
+    animation-duration: 3S;
+    animation-iteration-count: infinite;
+}
+@keyframes O{
+    from{
+        box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+    }
+    to{
+        box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    }
+}
+.o{
+	text-align: center;
+	color: red;
+	text-decoration: none;
+	font-size:xx-large;
+    font-family: "Marhey", sans-serif; 
+	font-weight: 400;
+}
+
+.black{
+    position: absolute;
+    top: 1960px;
+	left: 530px;
+    width: 200px;
+    height: 200px;
+}
+}

@@ -1,0 +1,514 @@
+@media only screen and (min-width: 100px){
+
+
+body{
+    background-color: black;
+}
+
+.a{
+    background-color: rgb(255, 255, 255);
+	height: 100px;
+	width: 320px;
+	padding: 20px;
+	text-align: center;
+	position: absolute;
+	left: 585px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+
+}
+
+.A{
+    text-align: center;
+	color: red;
+	font-style:italic;
+	font-size:xx-large;
+	font-family: "Reem Kufi Fun", sans-serif;
+	font-weight: 400;
+}
+
+
+.b{
+    width: 450px;
+    height: 145px;
+    background-image: url(pngtree-hand-drawn-cute-cartoon-signage-sign-simple-illustration-image-yellow-card-png-image_2317732.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 75px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    position: absolute;
+    top: 90px;
+    left: 100px;
+}
+.B{
+    color: black;
+    font-family: "Alkalami", serif;;
+    position: absolute;
+    top: 142px;
+    left: 250px;
+}
+
+
+
+
+.d{
+    width: 450px;
+    height: 145px;
+    background-image: url(pngtree-hand-drawn-cute-cartoon-signage-sign-simple-illustration-image-yellow-card-png-image_2317732.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 75px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    position: absolute;
+    top: 90px;
+    left: 980px;
+}
+.D{
+    color: black;
+    font-family: "Alkalami", serif;;
+    position: absolute;
+    top: 52px;
+    left: 155px;
+}
+
+
+
+.ph{
+    width: 350px;
+    height: 435px;
+    position: absolute;
+    top: 300px;
+    left: 1040px;
+    border: 5px rgb(255, 0, 0) solid;
+    border-radius: 0 35px 0 35px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+}
+
+
+.pho{
+    width: 350px;
+    height: 435px;
+    position: absolute;
+    top: 300px;
+    left: 145px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+
+}
+
+.dam{
+    position: absolute;
+    top: 415px;
+    left: 255px;
+    color: white;
+    font-family: "Marhey", sans-serif;
+    font-size: xx-large;
+}
+.dom{
+    position: absolute;
+    top: 470px;
+    left: 255px;
+    color: white;
+    font-family: "Marhey", sans-serif;
+    font-size: xx-large;
+}
+.dem{
+    position: absolute;
+    top: 530px;
+    left: 255px;
+    color: white;
+    font-family: "Marhey", sans-serif;
+    font-size: xx-large;
+}
+
+.phot{
+    width: 350px;
+    height: 435px;
+    position: absolute;
+    top: 300px;
+    left: 595px;
+}
+
+.photo{
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 890px;
+    left: 570px;
+    animation-name: photo;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+@keyframes photo{
+    from{
+     rotate: 0;
+  }
+    to{
+     rotate: 360deg;
+  }
+ }
+
+
+.pic{
+    width: 510px;
+    height: 240px;
+    position: absolute;
+    top: 500px;
+    left: 515px;
+}
+
+.phoo{
+    width: 350px;
+    height: 435px;
+    position: absolute;
+    top: 220px;
+    left: 730px;
+}
+
+.pi{
+    width: 1260px;
+    height: 230px;
+    position: absolute;
+    top: 845px;
+    left: 145px;
+    border: 5px rgb(255, 255, 255) solid;
+    border-radius: 35px 35px 35px 35px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 255, 255);
+}
+
+.ca{
+    width: 180px;
+    height: 110px;
+    position: absolute;
+    top: 770px;
+    left: 225px;
+    animation-name: ca;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+@keyframes ca{
+    from{
+     position: absolute;
+     left: 225px;  
+  }
+    to{
+     position: absolute;
+     left: 1145px;
+  }
+ }
+
+
+.car{
+    width: 180px;
+    height: 110px;
+    position: absolute;
+    top: 990px;
+    left: 1145px; animation-name: car;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes car{
+    from{
+     position: absolute;
+     left: 1145px;  
+  }
+    to{
+     position: absolute;
+     left: 225px;
+  }
+ }
+
+.car1{
+    width: 180px;
+    height: 110px;
+    position: absolute;
+    top: 850px;
+    left: 1292px;
+    animation-name: car1;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+@keyframes car1{
+    from{
+     position: absolute;
+     top: 850px;
+    }
+    to{
+     position: absolute;
+     top: 975px;
+    }
+ }
+
+
+.car2{
+    width: 225px;
+    height: 110px;
+    position: absolute;
+    top: 975px;
+    left: 90px;
+    animation-name: car2;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+@keyframes car2{
+   from{
+    position: absolute;
+    top: 975px;
+   }
+   to{
+    position: absolute;
+    top: 845px;
+   }
+}
+
+.car3{
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 890px;
+    left: 740px;
+  
+}
+
+
+
+.bot{
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    position: absolute;
+    top: 940px;
+    left: 619px;
+}
+
+.bott{
+    width: 18px;
+    height: 10px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 940px;
+    left: 770px;
+}
+.bottee{
+    width: 30px;
+    height: 10px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 1000px;
+    left: 608px;
+}
+.botteee{
+    width: 30px;
+    height: 10px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 1000px;
+    left: 770px;
+}
+
+
+
+.hand{
+	animation-name: X;
+	animation-delay: 0s;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+}
+@keyframes X {
+	0% {
+		translate: 0 0;
+	}
+	25%{
+		translate: 0 20px;
+	}
+}
+
+.hands{
+	width: 180px;
+	height: 165px;
+	position: absolute;
+	top: 1145px;
+	left: 635px;
+	animation-name: X;
+	animation-delay: 0s;
+}
+
+
+.page{
+    width: 330px;
+	height: 50px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+	padding: 10px;
+	position: absolute;
+	top: 1365px;
+	left: 565px;
+	text-align: center;
+	border-radius: 75px;
+	box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+}
+.pagee{
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+	position: absolute;
+	top: 10px;
+	left: 37px;
+    font-family: "Marhey", sans-serif;
+    font-size: x-large;
+}
+
+
+.black{
+    width: 330px;
+	height: 50px;
+    background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 1500px;
+	left: 565px;
+}
+
+
+.sh{
+    width: 330px;
+	height: 70px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+	padding: 10px;
+	position: absolute;
+	top: 1210px;
+	left: 150px;
+	text-align: center;
+	border-radius: 75px;
+	box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+    animation-name: sh;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+@keyframes sh{
+    from{
+        box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+
+    }
+    to{
+        box-shadow: 1px 1px 15px 10px rgb(255, 255, 255);
+
+    }
+ }
+.sh1{
+    color: rgb(0, 0, 0);
+	text-decoration: none;
+	position: absolute;
+	top: -15px;
+	left: 110px;
+    font-family: "Reem Kufi Fun", sans-serif;
+}
+.sh11{
+    color: rgb(0, 0, 0);
+	text-decoration: none;
+	position: absolute;
+	top: 15px;
+	left: 118px;
+    font-family: "Marhey", sans-serif;
+    font-size: x-large;
+}
+.sh2{
+    width: 330px;
+	height: 70px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+	padding: 10px;
+	position: absolute;
+	top: 1210px;
+	left: 1060px;
+	text-align: center;
+	border-radius: 75px;
+	box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+    animation-name: sh2;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+@keyframes sh2{
+    from{
+        box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+
+    }
+    to{
+        box-shadow: 1px 1px 15px 10px rgb(255, 255, 255);
+
+    }
+ }
+.sh22{
+    color: rgb(0, 0, 0);
+	text-decoration: none;
+	position: absolute;
+	top: -15px;
+	left: 110px;
+    font-family: "Reem Kufi Fun", sans-serif;
+}
+.sh222{
+    color: rgb(0, 0, 0);
+	text-decoration: none;
+	position: absolute;
+	top: 15px;
+	left: 118px;
+    font-family: "Marhey", sans-serif;
+    font-size: x-large;
+}
+}
+
+.cup{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 1315px;
+    left: 215px;
+    border: 5px rgb(255, 255, 255) solid;
+    border-radius: 0 35px 0 35px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    animation-name: cup;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+@keyframes cup{
+    from{
+        box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+
+    }
+    to{
+        box-shadow: 1px 1px 15px 10px rgb(255, 255, 255);
+
+    }
+ }
+
+ .cup2{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 1315px;
+    left: 1140px;
+    border: 5px rgb(255, 255, 255) solid;
+    border-radius: 0 35px 0 35px;
+    box-shadow: 1px 1px 5px 5px rgb(255, 0, 0);
+    animation-name: cup;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+@keyframes cup{
+    from{
+        box-shadow: 1px 1px 15px 10px rgb(255, 0, 0);
+
+    }
+    to{
+        box-shadow: 1px 1px 15px 10px rgb(255, 255, 255);
+
+    }
+ }
